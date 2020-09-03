@@ -1,0 +1,79 @@
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Lab 11.3 Coffee Shop Registration Continued.dll.config
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Lab 11.3 Coffee Shop Registration Continued.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Lab 11.3 Coffee Shop Registration Continued.pdb
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\csc.exe
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\csc.exe.config
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\csc.rsp
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\csi.exe
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\csi.exe.config
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\csi.rsp
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.Managed.Core.targets
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.AppContext.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Collections.Immutable.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Console.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Globalization.Calendars.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.IO.Compression.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.IO.FileSystem.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Net.Http.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Net.Sockets.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Reflection.Metadata.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.ValueTuple.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Xml.XmlDocument.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Xml.XPath.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\vbc.exe
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\vbc.exe.config
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\vbc.rsp
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\VBCSCompiler.exe
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\roslyn\VBCSCompiler.exe.config
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Antlr3.Runtime.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Microsoft.Web.Infrastructure.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Newtonsoft.Json.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Helpers.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Mvc.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Optimization.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Razor.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.WebPages.Deployment.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.WebPages.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.WebPages.Razor.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\WebGrease.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Helpers.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Mvc.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Optimization.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.Razor.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.WebPages.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.WebPages.Deployment.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\System.Web.WebPages.Razor.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Newtonsoft.Json.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Antlr3.Runtime.pdb
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\obj\Debug\Lab 11.3 Coffee Shop Registration Continued.csprojAssemblyReference.cache
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\obj\Debug\Lab 11.3 Coffee Shop Registration Continued.csproj.CoreCompileInputs.cache
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\obj\Debug\Lab 11.3 Coffee Shop Registration Continued.csproj.CopyComplete
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\obj\Debug\Lab 11.3 Coffee Shop Registration Continued.dll
+C:\devbuild4\MVC\Lab 11.3 Coffee Shop Registration Continued\obj\Debug\Lab 11.3 Coffee Shop Registration Continued.pdb
