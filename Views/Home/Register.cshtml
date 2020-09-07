@@ -3,23 +3,25 @@
     ViewBag.Title = "Register";
 }
 
-<h2>Register</h2>
+<h2>@ViewBag.Message</h2>
 
 <form method="POST" action=" /Home/AddUser">
     <label for=firstName style="display:block"> First Name:</label>
-    <input type="text" name="firstName" required /><br /><br />
+    @Html.Raw(ViewBag.FirstNameErrorMessage)
+    <input type="text" name="firstName" /><br /><br /> <!--Originally these were set to required making them client side validation. I have gone back to add server side validation to prevent first name from being blank-->
 
     <label for=lastName style="display:block"> Last Name:</label>
-    <input type="text" name="lastName" required /><br /><br />
+    @Html.Raw(ViewBag.LastNameErrorMessage)
+    <input type="text" name="lastName" /><br /><br />  <!--Originally these were set to required making them client side validation. I have gone back to add server side validation to prevent last name from being blank-->
 
     <label for=email style="display:block"> Email</label>
     <input type="email" name="emailAddress" required /><br /><br />
 
     <label for=telNumber style="display:block"> Phone Number:</label>
-    <input type="tel" name="telNumber" required pattern="^(?:(?:\+?1\s*(?:[.-]\s*)?)?(?:\(\s*([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9])\s*\)|([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9]))\s*(?:[.-]\s*)?)?([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})(?:\s*(?:#|x\.?|ext\.?|extension)\s*(\d+))?$"/><br /><br />
+    <input type="tel" name="telNumber" title="i.e. (xxx)xxx-xxxx" required pattern="^(?:(?:\+?1\s*(?:[.-]\s*)?)?(?:\(\s*([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9])\s*\)|([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9]))\s*(?:[.-]\s*)?)?([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})(?:\s*(?:#|x\.?|ext\.?|extension)\s*(\d+))?$" /><br /><br />
 
     <label for=password style="display:block"> Password:</label>
-    <input type="password" name="password" required pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$"/><br /><br />
+    <input type="password" name="password" title="Min 8 Chars. UpperCase and LowerCase letter. 1 number 1 symbol" required pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$" /><br /><br />
 
     <label for=state style="display:block"> State:</label>
     <select name="state" required>
@@ -88,9 +90,9 @@
 
     <label for=Handedness style="display:block"> Handedness:</label>
     <input type="radio" id="Right" name="Handedness" value="Right" />
-    <label for="Right">Right</label><br />
+    <label for="Right">Right Handed</label><br />
     <input type="radio" id="Left" name="Handedness" value="Left" />
-    <label for="Left">Left</label><br />
+    <label for="Left">Left Handed</label><br />
     <input type="radio" id="Ambidextrous" name="Handedness" value="Ambidextrous" />
     <label for="Ambidextrous">Ambidextrous</label><br /><br />
 

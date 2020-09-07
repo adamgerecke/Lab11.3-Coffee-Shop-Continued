@@ -28,9 +28,15 @@ namespace Lab_11._3_Coffee_Shop_Registration_Continued.Controllers
             return View();
         }
 
+        public void PrepareRegisterPage()
+        {
+            ViewBag.Message = "Register";
+        }
+
         [HttpGet]
         public ActionResult Register()
         {
+            PrepareRegisterPage();
             return View();
         }
 
@@ -50,6 +56,27 @@ namespace Lab_11._3_Coffee_Shop_Registration_Continued.Controllers
                 coffeeStyle = coffeeStyle
 
             };
+
+            if(firstName == "" && lastName =="")
+            {
+                PrepareRegisterPage();
+                ViewBag.FirstNameErrorMessage = "Sorry, First Name is a required field.<br />";
+                ViewBag.LastNameErrorMessage = "Sorry, Last Name is a required field.<br />";
+                return View("Register");
+            }
+            else if (firstName == "")
+            {
+                PrepareRegisterPage();
+                ViewBag.FirstNameErrorMessage = "Sorry, First Name is a required field.<br />";
+                return View("Register");
+            }
+            else if (lastName == "")
+            {
+                PrepareRegisterPage();
+                ViewBag.LastNameErrorMessage = "Sorry, Last Name is a required field.<br />";
+                return View("Register");
+            }
+
             return View(user);
         }
     }
