@@ -16,6 +16,9 @@ namespace Lab_11._3_Coffee_Shop_Registration_Continued.Models
         public string cupsPerDay { get; set; }
         public string handedness { get; set; }
         public string coffeeStyle { get; set; }
+        public string drinkselection { get; set; }
+        public string drinksize { get; set; }
+        public string ordernumber { get; set; }
 
     }
 }

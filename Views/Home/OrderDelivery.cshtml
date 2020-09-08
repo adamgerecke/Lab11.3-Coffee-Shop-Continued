@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "OrderDelivery";
+}
+
+<h2>Order Summary</h2>
+
+<form method="POST" action=" /Home/OrderSummary">
+    <input type="hidden" id="orderNum" name="OrderNumber" value="1337" />
+
+    <label for=streetaddress style="display:block"> Street</label>
+    <input type="text" name="streetaddress" required /><br /><br />
+
+    <label for=cityaddress style="display:block"> City</label>
+    <input type="text" name="cityaddress" required /><br /><br />
+
+    <label for=zipcodeaddress style="display:block"> Zip</label>
+    <input type="text" name="zipcodeaddress" required /><br /><br />
+
+
+    <label for=drinkselection style="display:block"> Drink Selection</label>
+    <select name="drinkselection" required>
+        <option value="" selected="selected">Please Select One</option>
+        <option value="Black Coffee">Black Coffee</option>
+        <option value="Decaf Coffee">Decaf Coffee</option>
+        <option value="Black Tea">Black Tea</option>
+        <option value="Green Tea">Green Tea</option>
+        <option value="White Tea">White Tea</option>
+    </select><br /><br />
+    <label for=drinksize style="display:block"> Drink Size</label>
+    <select name="drinksize" required>
+        <option value="" selected="selected">Please Select One</option>
+        <option value="Small">Small</option>
+        <option value="Medium">Medium</option>
+        <option value="Large">Large</option>
+    </select><br /><br />
+    <input type="submit" value="Submit" />
+</form>

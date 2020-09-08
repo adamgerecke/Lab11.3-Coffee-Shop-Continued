@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "OrderPage";
+    
+}
+
+<h3>@ViewBag.Message</h3>
+
+
+
+<form method="POST" action=" /Home/OrderSummary">
+    <label for=ordertype style="display:block"> Pickup or Delivery</label>
+    <select name="ordertype" required>
+        <option value="" selected="selected">Please Select One</option>
+        <option value="Pickup">Pickup</option>
+        <option value="Delivery">Delivery</option>
+    </select><br /><br />
+    <input type="submit" value="Submit" />
+</form>
+

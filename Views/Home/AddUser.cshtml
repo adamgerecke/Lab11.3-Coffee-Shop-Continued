@@ -1,6 +1,10 @@
 ﻿@model Lab_11._3_Coffee_Shop_Registration_Continued.Models.WebUser
 @{
     ViewBag.Title = "AddUser";
+
+    string firstNamePass = @Model.firstName;
+    string lastNamePass = @Model.lastName;
+    string statePass = @Model.state;
 }
 
 <h2>Registration Complete!</h2><br /><br /><br />
@@ -16,8 +20,11 @@ We will also have plenty of supplies, so you can have your coffee just how you l
     Last Name: @Model.lastName<br />
     Phone Number: @Model.telNumber<br />
     Password: @Model.password<br /><br />
-    <b>Please keep this information safe!</b>
+    <b>Please keep this information safe!</b><br /><br />
+    Now accepting @Html.ActionLink("Orders!", "OrderPage", "Home")
 </p>
+
+
 
 
 
